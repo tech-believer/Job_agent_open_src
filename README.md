@@ -1,5 +1,9 @@
 # The Observable Job Agent
 
+## My Genuine Try
+
+[Read my comments](COMMENT.md)
+
 <div align="center">
   <h3>Job Scout: a real AI job-matching agent you can see inside</h3>
   <p>Upload your CV (PDF). Get real openings ranked 0 to 100 for fit, honest gap explanations, and a tailored application pack. Then ask for all of it out loud. Every LLM and tool call traced in <a href="https://www.comet.com/docs/opik/">Opik</a> from run one.</p>
@@ -77,7 +81,7 @@ Ask out loud, "find me jobs", and the search starts. Jobvis tells you it has beg
 #    ELEVENLABS_API_KEY=sk_...
 #    ELEVENLABS_VOICE_ID=...      # Voices > My Voices > ... > Copy voice ID
 make jobvis-agent     # creates the agent from voice/persona.py, prints the agent id
-                      # paste it back as ELEVENLABS_AGENT_ID
+               # paste it back as ELEVENLABS_AGENT_ID
 make web-build        # npm ci + a Next.js static export into web/out
 make app              # wizard on :7860 AND the console on :8000, one process
 ```
