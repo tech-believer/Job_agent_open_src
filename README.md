@@ -1,8 +1,8 @@
-# The Observable Job Agent
-
-## My Genuine Try
+## User Genuine Try
 
 [Read my comments](COMMENT.md)
+
+# The Observable Job Agent
 
 <div align="center">
   <h3>Job Scout: a real AI job-matching agent you can see inside</h3>
